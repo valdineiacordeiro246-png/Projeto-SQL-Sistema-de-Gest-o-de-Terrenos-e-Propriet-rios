@@ -16,7 +16,6 @@ O objetivo é demonstrar o uso de comandos fundamentais de **DDL (Data Definitio
 ## 📁 Estrutura do Projeto
 
 
-
 projeto-sql/
 │
 ├── scripts/
@@ -26,13 +25,11 @@ projeto-sql/
 │
 └── README.md
 
-
 ---
 
 ## 🗂️ Descrição dos Arquivos
 
 ### **01_create_tables.sql**
-Contém os comandos para criar as tabelas principais do banco:
 
 - `proprietario`
 - `terreno`
@@ -42,8 +39,7 @@ Inclui:
 - Relação 1:N entre proprietário e terrenos
 - Campos obrigatórios
 
-### **02_inserts.sql**
-Contém os dados de exemplo para popular as tabelas e permitir testes de consultas.
+### **02_inserts.sql
 
 ### **03_queries.sql**
 Contém consultas SQL para:
@@ -56,7 +52,6 @@ Contém consultas SQL para:
 
 ## 🛠️ Como Executar os Scripts
 
-Você pode rodar os scripts em qualquer banco relacional, como:
 
 - PostgreSQL
 - MySQL / MariaDB

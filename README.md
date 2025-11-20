@@ -140,3 +140,7 @@ HAVING COUNT(t.id) > 1;
 SELECT p.nome, t.descricao
 FROM proprietario p
 LEFT JOIN terreno t ON t.proprietario_id = p.id;
+
+https://github.com/valdineiacordeiro246-png/Projeto-SQL-Sistema-de-Gest-o-de-Terrenos-e-Propriet-rios.git
+
+valdineiacordeiro246-png
